@@ -1,0 +1,30 @@
+input {
+    width: 257px;
+    height: 40px;
+    border-radius: 30px;
+    margin-top: 30px;
+    border: none;
+    outline: none;
+    background: #63B100;
+    padding: 10px;
+
+}
+
+::placeholder {
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    text-align: left;
+    letter-spacing: 0.35em;
+    color: #BBEC00;
+}
+
+/* button {
+    border: none;
+    width: 5%;
+    height: 60px;
+    border-radius: 0 12px 12px 0;
+    background-color: #ffffff00;
+    cursor: pointer;
+} */
